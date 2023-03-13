@@ -1,7 +1,5 @@
 
 # Expense Tracker
-
-### WEBSITE: https://expense-tracker-heroku-project.herokuapp.com/
 - Expense Tracker is a Django based web application for splitting expenses with your friends. 
 - It lets you and your friends add various bills and keep track of who owes who, 
 and then it helps you to settle up with each other.
@@ -22,6 +20,3 @@ and then it helps you to settle up with each other.
 - Up to date track record of all debts.
 - Transparent and error free split process.
 - Time saving from complex calculations.
-
-## Dashboard
-![alt text](https://github.com/Parth971/Expense-Tracker-Django-Full-stack-Web-Appliction/blob/master/readme_assets/dashboard.png)
